@@ -1,0 +1,29 @@
+quests1:
+  id: ""
+  name: "§cA sziklák világában?!"
+  quests:
+    get_stone:
+      name: "Szerezz %amount% követ!"
+      type: "PICKUP"
+      requirement: "STONE"
+      amount: 64
+    craft_stone_bricks:
+      name: "Craftolj %amount% Kőtéglát!"
+      type: "CRAFT"
+      requirement: "STONE_BRICKS"
+      amount: 16
+
+quests2:
+  id: ""
+  name: "§cA sziklák világában?!"
+  quests:
+    get_stone:
+      name: "Szerezz %amount% követ!"
+      type: "PICKUP"
+      requirement: "STONE"
+      amount: 64
+    craft_stone_bricks:
+      name: "Craftolj %amount% Kőtéglát!"
+      type: "CRAFT"
+      requirement: "STONE_BRICKS"
+      amount: 16

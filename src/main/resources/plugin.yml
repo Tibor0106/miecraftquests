@@ -1,0 +1,11 @@
+name: XeloryQuests
+version: 1.0
+main: quest.me.jack.QuestPlugin
+api-version: 1.18
+
+commands:
+  quest:
+    aliases: [quets, q, missions]
+    permission: quest.command.quest
+  quest-admin:
+    permission: quest.command.quest-admin
